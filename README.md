@@ -6,9 +6,10 @@ Passo a passo para fazer funcionar
    - Nodejs
    - AngularCli
    - Banco de Dados IBM_ DB2 (caso prefira outro remova e instale este módulo - não esqueça de remover o pacote ibm_db caso decidar trocar de banco de dados)
-
+   
 2 - Na raiz do projeto e também dentro da pasta front abra o terminal e faça:
   - npm i
+  - mkdir temp (apenas na raiz do projeto)
 
 3 - Na raiz do projeto abra o terminal e faça:
   - nodemon server
